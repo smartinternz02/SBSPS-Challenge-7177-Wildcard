@@ -1,2 +1,2 @@
 # SBSPS-Challenge-7177-Wildcard
-A poster, video, files and, visualisations are uploaded for "Data for social good hackathon".
+A poster, a video, few files and visualisations are uploaded for "Data for social good hackathon".
